@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes financial performance using the Global Superstore dataset. It measures revenue, profit, and discount effects across products, regions, and customer segments. The goal is to uncover trends, identify profit drivers, and visualize key business insights through Power BI.
 
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/1.png)
+
 ## Dataset Summary
 The dataset contains global retail transactions across multiple categories and regions.  
 **Key Fields:**  
@@ -37,6 +39,11 @@ The dataset contains global retail transactions across multiple categories and r
 7. **Table:** Top 10 Customers by Total Spend  
 
 ## Results & Insights
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/2.png)
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/3.png)
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/4.png)
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/5.png)
+![alt text](https://github.com/muneebsaddal/financial-performace-dashboard/blob/main/report-images/6.png)
 
 ## Tools & Technologies
 - **Power BI:** Data modeling and visualization  
